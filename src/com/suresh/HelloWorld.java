@@ -7,6 +7,7 @@ public class HelloWorld {
 System.out.println("helloworld");
 System.out.println("new line");
 System.out.println("new line added through elipse to demo the merge conflicts");
+		System.out.println("again added new line");
 	}
 
 }
